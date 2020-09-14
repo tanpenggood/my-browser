@@ -15,6 +15,16 @@ yarn serve
 yarn build
 ```
 
+### Run electron for development
+```
+yarn electron:serve
+```
+
+### Build electron
+```
+yarn electron:build
+```
+
 **setup taobao mirror source**
 
 ```
