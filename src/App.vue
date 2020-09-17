@@ -6,6 +6,7 @@
 			<li><a href="https://gitee.com/tanpenggood" target="_blank">Gitee</a></li>
 			<li><a href="http://showdoc.itplh.com" target="_blank">ShowDoc</a></li>
 			<li><a href="https://blog.csdn.net/AV_woaijava" target="_blank">CSDN 花田小苏</a></li>
+			<li><a href="http://i.mooc.chaoxing.com" target="_blank">超星网空间</a></li>
 		</ul>
 	</div>
 </template>
